@@ -67,3 +67,12 @@ PSScriptAnalyzerSettings.psd1.user
 *.pfx
 *.pem
 credentials.xml
+-e 
+# Environment and credential files
+.env
+.env.*
+*.env
+credentials.json
+*.pem
+*.key
+.credentials
